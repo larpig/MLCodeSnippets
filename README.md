@@ -6,7 +6,7 @@ This repository contains code snippets for machine learning in Python.
 
 Files are generally Jupyter Notebooks whose name presents the following format:
 
-CodeSnippet_<problem type>_<problem solved>
+CodeSnippet_`<problem type>`_`<problem solved>`
 
 Example: CodeSnippet_Clustering_DeterminingTheAlgirhtmAndTheNumberOfClusters.
 
@@ -18,4 +18,4 @@ Example: CodeSnippet_Clustering_DeterminingTheAlgirhtmAndTheNumberOfClusters.
 
 ### What machine learn problems are solved here?
 
-To each type of task, some specifics problems are solved.
+To each type of task, some specific problems are solved.
