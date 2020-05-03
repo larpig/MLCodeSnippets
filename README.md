@@ -15,6 +15,7 @@ Example: CodeSnippet_Clustering_DeterminingTheAlgirhtmAndTheNumberOfClusters.
 * Clustering
 * Dimensionality reduction
 * (Data) Preprocessing
+* Regression
 
 ### What machine learning problems are solved here?
 
@@ -22,4 +23,4 @@ To each type of task, some specific problems are solved.
 
 ## What will be included soon?
 
-* Regression
+* Classification
